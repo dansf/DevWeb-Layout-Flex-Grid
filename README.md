@@ -17,10 +17,6 @@
 </ul>
 </p>
 
-<p>
-    <b>Link da página:</b> <a href="https://dev-web-layout-flex-grid.vercel.app/" target="_blank">https://dev-web-layout-flex-grid.vercel.app/</a>
-</p>
-
 <h4>
     Ferramentas utilizadas:
 </h4>
@@ -29,6 +25,10 @@
     <li>Html</li>
     <li>Css</li>
 </ul>
+
+<p>
+    <b>Link da página:</b> <a href="https://dev-web-layout-flex-grid.vercel.app/" target="_blank">https://dev-web-layout-flex-grid.vercel.app/</a>
+</p>
 
 <h4>
     Layout/atividade:
